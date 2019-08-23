@@ -9,6 +9,7 @@ title: Camilla van Geen
 | 1 West 67th Street 703 New York, NY </div>
 
 
+
 ## EDUCATION & TRAINING
 
 `2018 - Present`
@@ -27,16 +28,18 @@ __Lycée Français de New York__
 + Baccalauréat série Scientifique: Mention très bien, felicitations du jury
 
 ## RESEARCH EXPERIENCE
-`2014 - Present`
-__The Learning Lab__, Columbia University     
+`2014 - Present
+__The Learning Lab__, Columbia University 
 
-Full-Time Lab Manager and Research Assistant (*2018 - Present*)
+`2014 - Present`
+ - Full-Time Lab Manager and Research Assistant 
 + Bayesian modeling of reinforcement learning
 + Analysis of pupillometry data
 + fMRI data collection
 + Management of IRB protocols
 
-Undergraduate Research Assistant (*2014 - 2018*)
+`2014 - 2018`
+ - Undergraduate Research Assitant
 + Conducted and designed studies
 + Performed statistical analyses on data
 + Coordinated studies across campuses
@@ -46,11 +49,9 @@ Undergraduate Research Assistant (*2014 - 2018*)
 ### Articles
 
 `In Progress`
-- Lang, E.*, __van Geen, C.__*, Tedeschi, E., Shohamy, D. Learned temporal statistics guide information-seeking behavior and memory. 
-
+- Lang, E.\*, __van Geen, C.__\*, Tedeschi, E., Shohamy, D. Learned temporal statistics guide information-seeking behavior and memory. 
 ` `
 - Gerraty, R., __van Geen, C.__, Shohamy, D. Hierarchical Bayesian approach to reinforcement learning models. 
-
 ` `
 - Braun, E., Duncan, K., Girgis, R., Wood, S., Sharpe, M., __van Geen, C.__, Abi-Dargham, A., Shohamy, D. Dopaminergic Modulation of Associative Memory in Healthy Humans.
 
@@ -58,17 +59,13 @@ Undergraduate Research Assistant (*2014 - 2018*)
 ### Presentations
 
 `2019`
-- Lang, E.*, __van Geen, C.__*, Tedeschi, E., Shohamy, D. (2019) Learned temporal statistics guide information-seeking behavior and memory. Poster presented at _Society for Neuroscience_, Chicago, IL.
-
+- Lang, E.\*, __van Geen, C.__\*, Tedeschi, E., Shohamy, D. (2019) Learned temporal statistics guide information-seeking behavior and memory. Poster presented at _Society for Neuroscience_, Chicago, IL.
 ` `
-- Lang, E.*, __van Geen, C.__*, Tedeschi, E., Shohamy, D. (2019) Temporal stistics of the environment guide learning and memory. Talk given at _Manhattan Area Memory Meeting (MAMM)_, New York, NY.
-
+- Lang, E.\*, __van Geen, C.__\*, Tedeschi, E., Shohamy, D. (2019) Temporal stistics of the environment guide learning and memory. Talk given at _Manhattan Area Memory Meeting (MAMM)_, New York, NY.
 ` `
 - Tedeschi, E., Marvin, C., Ouyang, L., Rathe, A., __van Geen, C.__, Tottenham, N., Shohamy, D. (2019) The development of curiosity across adolescence and early adulthood. Poster presented at _Society for Neuroscience_, Chicago, IL.
-
 `2018`
 - Braun, E., Duncan, K., Girgis, R., Wood, S., Sharpe, M., __van Geen, C.__, Abi-Dargham, A., Shohamy, D. (2018) Dopaminergic Modulation of Associative Memory in Healthy Humans. Talk given at _Society for Neuroscience_, San Diego, CA.
-
 ` `
 - Braun, E., Duncan, K., Girgis, R., Wood, S., Sharpe, M., __van Geen, C.__, Abi-Dargham, A., Shohamy, D. (2018) Dopaminergic Modulation of Associative Memory in Healthy Humans. Poster presented at _Cognitive Neuroscience Society_, Boston, MA. 
 
