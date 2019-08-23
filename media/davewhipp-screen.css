@@ -63,15 +63,15 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 65%;
 }
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -80,14 +80,14 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -14%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 33%;
+	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -124,13 +124,13 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 33%;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 100%;
+	font-size: 110%;
 }
 
 h2 {
@@ -164,7 +164,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
