@@ -53,10 +53,10 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
+	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
 }
 
@@ -115,8 +115,8 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	font-family: Cousine,Verdana,sans-serif;
+	width: 65%;
 }
 
 h1 {
@@ -130,12 +130,12 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #a00;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -165,9 +165,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
 }
 
 #webaddress a {
