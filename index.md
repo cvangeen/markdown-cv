@@ -1,91 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Camilla van Geen
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Camilla van Geen
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+<a href="cv2330@columbia.edu">cv2330@columbia.edu</a>
+| <a | 1 West 67th Street 703 New York, NY </div>
 
 
 
-## Awards
+## EDUCATION & TRAINING
 
-`2012`
-President, *Royal Society*, London, UK
+`2018 - Present`
+__Columbia University__
++ Research Staff, Advisor: Daphna Shohamy
 
-Associate, *French Academy of Science*, Paris, France
+`2014 - 2018`
+__Columbia University__, *Cum Laude*
++ BA Neuroscience with Honors
+	+ Thesis: Curiosity’s role in guiding memory for target and incidental information
+	+ Advisor: Daphna Shohamy
++ BA Philosophy
 
+`2000 - 2014`
+__Lycée Français de New York__
++ Baccalauréat série Scientifique: Mention très bien, felicitations du jury
 
+## RESEARCH EXPERIENCE
+`2014 - Present`
+__The Learning Lab__, Columbia University 
+Full-Time Lab Manager and Research Assistant (*2018 - Present*)
++ Bayesian modeling of reinforcement learning
++ Analysis of pupillometry data
++ fMRI data collection
++ Management of IRB protocols
 
-## Publications
+Undergraduate Research Assistant (*2014 - 2018*)
++ Conducted and designed studies
++ Performed statistical analyses on data
++ Coordinated studies across campuses
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## PUBLICATIONS
 
-### Journals
+### Articles
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`In Progress`
+- Lang, E.*, __van Geen, C.__*, Tedeschi, E., Shohamy, D. Learned temporal statistics guide information-seeking behavior and memory. 
 
-`1669`
-Lectiones opticæ.
+` `
+- Gerraty, R., __van Geen, C.__, Shohamy, D. Hierarchical Bayesian approach to reinforcement learning models. 
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+` `
+- Braun, E., Duncan, K., Girgis, R., Wood, S., Sharpe, M., __van Geen, C.__, Abi-Dargham, A., Shohamy, D. Dopaminergic Modulation of Associative Memory in Healthy Humans.
 
 
+### Presentations
+
+`2019`
+- Lang, E.*, __van Geen, C.__*, Tedeschi, E., Shohamy, D. (2019) Learned temporal statistics guide information-seeking behavior and memory. Poster presented at _Society for Neuroscience_, Chicago, IL.
+
+` `
+- Lang, E.*, __van Geen, C.__*, Tedeschi, E., Shohamy, D. (2019) Temporal stistics of the environment guide learning and memory. Talk given at _Manhattan Area Memory Meeting (MAMM)_, New York, NY.
+
+` `
+- Tedeschi, E., Marvin, C., Ouyang, L., Rathe, A., __van Geen, C.__, Tottenham, N., Shohamy, D. (2019) The development of curiosity across adolescence and early adulthood. Poster presented at _Society for Neuroscience_, Chicago, IL.
+
+`2018`
+- Braun, E., Duncan, K., Girgis, R., Wood, S., Sharpe, M., __van Geen, C.__, Abi-Dargham, A., Shohamy, D. (2018) Dopaminergic Modulation of Associative Memory in Healthy Humans. Talk given at _Society for Neuroscience_, San Diego, CA.
+
+` `
+- Braun, E., Duncan, K., Girgis, R., Wood, S., Sharpe, M., __van Geen, C.__, Abi-Dargham, A., Shohamy, D. (2018) Dopaminergic Modulation of Associative Memory in Healthy Humans. Poster presented at _Cognitive Neuroscience Society_, Boston, MA. 
+
+
+## TECHNICAL SKILLS
+
+`Programming Languages`
+- R, Matlab
+
+`Languages`
+- English, French, Italian; *Native*
+- Mandarin, *Intermediate* (Passed HSK 4)
