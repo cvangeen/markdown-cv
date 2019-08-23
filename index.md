@@ -6,8 +6,7 @@ title: Camilla van Geen
 
 <div id="webaddress">
 <a href="cv2330@columbia.edu">cv2330@columbia.edu</a>
-| <a | 1 West 67th Street 703 New York, NY </div>
-
+| 1 West 67th Street 703 New York, NY </div>
 
 
 ## EDUCATION & TRAINING
@@ -29,7 +28,8 @@ __Lycée Français de New York__
 
 ## RESEARCH EXPERIENCE
 `2014 - Present`
-__The Learning Lab__, Columbia University 
+__The Learning Lab__, Columbia University     
+
 Full-Time Lab Manager and Research Assistant (*2018 - Present*)
 + Bayesian modeling of reinforcement learning
 + Analysis of pupillometry data
